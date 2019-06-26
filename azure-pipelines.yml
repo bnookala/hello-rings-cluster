@@ -35,3 +35,5 @@ steps:
     COMMIT_MESSAGE: $(Build.SourceVersionMessage)
     REPO: $(MANIFEST_REPO)
     BRANCH_NAME: $(Build.SourceBranchName)
+    access_token_dev_hld_private: $(access_token_dev_hld_private)
+    access_token_lang_service_pat: $(access_token_lang_service_pat)
