@@ -1,0 +1,6 @@
+subcomponents:
+  hello-rings:
+    subcomponents:
+      hello-rings-merge:
+        config:
+          buildId: "5873945768346578365"
