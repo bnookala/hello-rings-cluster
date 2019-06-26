@@ -4,3 +4,6 @@ subcomponents:
       hello-rings-master:
         config:
           buildId: "444534543634"
+      hello-rings-pass_version:
+        config:
+          buildId: "5873945768346578365"
