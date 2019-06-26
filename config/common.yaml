@@ -1,4 +1,5 @@
 subcomponents:
-  hello-rings-master:
-    config:
-      buildId: "44444"
+  hello-rings:
+    hello-rings-master:
+      config:
+        buildId: "44444"
