@@ -15,4 +15,9 @@ subcomponents:
   method: git
   branch: master
   type: component
+- name: dev-hld-private
+  source: https://github.com/yradsmikham/dev-hld-private
+  method: git
+  branch: master
+  type: component
   

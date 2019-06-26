@@ -1,1 +1,2 @@
-https://dev.azure.com/EpiserverEngineering/MT/_git/languages-service-hld: $access_token_lang_service_pat
+https://dev.azure.com/EpiserverEngineering/MT/_git/languages-service-hld: access_token_lang_service_pat
+https://github.com/yradsmikham/dev-hld-private: access_token_dev_hld_private
