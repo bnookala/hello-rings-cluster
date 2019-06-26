@@ -1,4 +1,4 @@
-name: hello-rings-flatpack
+name: hello-rings-cluster
 subcomponents:
 - name: hello-rings
   type: component
