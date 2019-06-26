@@ -10,3 +10,9 @@ subcomponents:
   source: https://github.com/samiyaakhtar/ring-operator
   method: git
   branch: master
+- name: language-service-hld
+  source: https://dev.azure.com/EpiserverEngineering/MT/_git/languages-service-hld
+  method: git
+  branch: master
+  type: component
+  
