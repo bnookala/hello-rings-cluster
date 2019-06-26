@@ -3,4 +3,4 @@ subcomponents:
     subcomponents:
       hello-rings-master:
         config:
-          buildId: "5873945768346578365"
+          buildId: "20190626.35"
