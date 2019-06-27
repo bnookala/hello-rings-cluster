@@ -3,4 +3,4 @@ subcomponents:
     subcomponents:
       hello-rings-merge:
         config:
-          buildId: "4560"
+          buildId: "4585"
