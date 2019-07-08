@@ -4,3 +4,6 @@ subcomponents:
       hello-rings-master:
         config:
           buildId: "4771"
+      hello-rings-pr_hello-rings-featureydawgie-4777:
+        config:
+          buildId: "4778"
