@@ -3,4 +3,4 @@ subcomponents:
     subcomponents:
       hello-rings-master:
         config:
-          buildId: "4813"
+          buildId: "4815"
