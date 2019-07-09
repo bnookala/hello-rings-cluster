@@ -1,4 +1,9 @@
 subcomponents:
+  hello-rings:
+    subcomponents:
+      hello-rings-pr_hello-rings-featureydawgie-4910:
+        config:
+          buildId: "4911"
   hello-rings-featureydawgie:
     config:
       branchName: featureydawgie
